@@ -16,6 +16,5 @@
     $ npm i agents
   </text>
   
-  <!-- Cursor block -->
   <rect x="530" y="75" width="25" height="45" fill="#ff6b00"/>
 </svg>
